@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] Copy the name of the game when user clicks the corresponding game card
+* [x] Copy the name of the game to the user's clipboard when he/she clicks on the corresponding game card
 
 ## Video Walkthrough
 [Video Walkthrough.webm](https://github.com/GeorgeZhang744/web102_prework/assets/75636959/50f80b89-f79b-4705-a7aa-26a5177d8601)
