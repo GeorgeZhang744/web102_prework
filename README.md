@@ -20,17 +20,8 @@ The following **optional** features are implemented:
 * [x] Copy the name of the game when user clicks the corresponding game card
 
 ## Video Walkthrough
+[Video Walkthrough.webm](https://github.com/GeorgeZhang744/web102_prework/assets/75636959/50f80b89-f79b-4705-a7aa-26a5177d8601)
 
-Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
